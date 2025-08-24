@@ -1,0 +1,1 @@
+companyanalytics.database.windows.net
