@@ -4,6 +4,13 @@ To use our purpose built tool:
 
 1. You can access the hosted chatbot on the following link: https://promp-pack.app.n8n.cloud/webhook/4e91ce55-6c33-454c-adf3-984ff0393933/chat
 
+Prompt examples: 
+Give me the number of employees in the Design Department?
+Give me Jordan Jones employee profile?
+What is the best performing department?
+Who is the best performing employee in the Product Department?
+Is Jordan William a good employee for a new AI team?
+
 To customize your own AI Agent based on our template or access the source code for our agent Kevin please see the file named Prompt Pack Final Model JSON file.
 
 To run our model on the n8n development environment:
